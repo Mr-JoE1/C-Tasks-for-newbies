@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556909801 source:d:\embedded systems diploma\c tasks\task 32\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
