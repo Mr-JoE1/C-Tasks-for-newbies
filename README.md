@@ -1,9 +1,10 @@
 # C-Tasks-for-newbies
 # Related to Embedded system Diploma by Eng. Mohamed Maher
 
-#for good C tips and Cheating codes check this Repo: https://github.com/Mr-JoE1/Play-with-C
+# for good C tips and Cheating codes check this Repo: https://github.com/Mr-JoE1/Play-with-C
 
 <<<<<<<<<<<<<<<<<<<< C Language Tasks >>>>>>>>>>>>>>>>>>>> 
+
 *This is a series of programming tasks and solutions developped  
 *	to illustrate various aspects of C language.
 *	Author    : AlHasan Sameh
@@ -11,6 +12,7 @@
 *	Compiler : gcc
 *	Date        : May 2019
 *
+
 <<<<<<<<<<<<<<<<<<<< Tasks Description >>>>>>>>>>>>>>>>>>>>
 *Task 1   : Program to print "Hello C" on the screen.
 *Task 2   : Program to read a number from the user and re-print it on the console screen.
